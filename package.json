@@ -1,0 +1,48 @@
+{
+  "name": "@best-skn/web-utils",
+  "description": "A simple library containing some web development utility objects",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skn437/skn-web-utils.git"
+  },
+  "keywords": [
+    "web",
+    "utility",
+    "typescript",
+    "bun",
+    "webdev",
+    "http",
+    "html",
+    "language",
+    "response",
+    "status",
+    "code",
+    "method"
+  ],
+  "author": {
+    "name": "SKN Shukhan",
+    "email": "skn437physx@gmail.com",
+    "url": "https://skn.best"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.5",
+    "typescript": "^5.8.2"
+  }
+}
