@@ -1,11 +1,13 @@
 {
   "name": "@best-skn/web-utils",
   "description": "A simple library containing some web development utility objects",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "LICENSE",
+    "README.md"
   ],
   "exports": {
     ".": {
@@ -22,7 +24,7 @@
     "web",
     "utility",
     "typescript",
-    "bun",
+    "node",
     "webdev",
     "http",
     "html",
@@ -42,7 +44,7 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "@types/bun": "^1.2.5",
-    "typescript": "^5.8.2"
+    "@types/node": "^25.5.2",
+    "typescript": "^5.9.3"
   }
 }
