@@ -9,6 +9,6 @@ if test -f "${NPM_SHRINKWRAP}"; then
   printf "Old '%s' file removed! \n" "${NPM_SHRINKWRAP}"
 fi
 
-npm i
+npm install
 
 npm shrinkwrap

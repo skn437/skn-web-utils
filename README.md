@@ -59,7 +59,7 @@
 
 ## **_Use Case:_**
 
-- Any JS Project
+- Any JS, TS, Node Project
 
 &nbsp;
 
