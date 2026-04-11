@@ -40,12 +40,12 @@ lerna-debug.log*
 **/*.bun
 
 # Deno, PNPM, NPM, YARN & Bun Lock Files
-deno.lock
-pnpm-lock.yaml
-package-lock.json
-yarn.lock
-bun.lock
-bun.lockb
+# deno.lock
+# pnpm-lock.yaml
+# package-lock.json
+# yarn.lock
+# bun.lock
+# bun.lockb
 
 # Typescript
 *.tsbuildinfo
@@ -61,8 +61,8 @@ out
 next-env.d.ts
 
 # Cypress
-cypress/videos
-cypress/screenshots
+cypress/videos/
+cypress/screenshots/
 
 # Vercel
 .vercel
@@ -74,14 +74,25 @@ output
 # Svelte-Kit
 .svelte-kit
 
+# Astro
+.astro
+public/assets/
+
 # Test
 coverage
 
 # Storybook
 storybook-static
 
+# Playwright
+test-results
+playwright-report
+blob-report
+playwright/.cache/
+playwright/.auth/
+
 # Husky
-.husky/_
+.husky/_/
 
 # Java
 apidocs
@@ -140,9 +151,9 @@ Homestead.json
 Homestead.yaml
 auth.json
 .phpunit.cache
-public/hot
-public/storage
+public/hot/
+public/storage/
 storage/*.key
-storage/pail
+storage/pail/
 vendor
 ssr

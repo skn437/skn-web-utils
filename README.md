@@ -24,7 +24,8 @@
 
 - 💥 HTTP Method Containing Object Cursor Just Like Java Spring Boot
 - ✨ HTTP Response Status Code Containing Object
-- 📜 HTML `lang` attribute Value Containing Object
+- 📜 HTML `lang` Attribute Value Containing Object
+- 📑 HTTP Method Type Which Will Ensure Type Safety For Valid HTTP Methods
 - 📚 Information Regarding The Object Properties On Mouse Hover
 
 &nbsp;
@@ -55,6 +56,11 @@
 - You need not go search on google to find out the languages
 - For usage instruction, see `Usage` section
 
+### **`HttpMethod` Type**
+
+- It has all the valid values of HTTP methods
+- For usage instruction, see `Usage` section
+
 &nbsp;
 
 ## **_Use Case:_**
@@ -65,7 +71,7 @@
 
 ## **_Requirements:_**
 
-### This library can be used in any JS project as it has some objects only
+### This library can be used in any JS/TS project as it has some objects only
 
 &nbsp;
 
@@ -113,6 +119,19 @@
 > );
 >
 > export default Home;
+> ```
+
+#### For `HttpMethod` Type
+
+> ```typescript
+> import type { HttpMethod } from "@best-skn/web-utils";
+>
+> const someFunction = (arg: HttpMethod) => {
+>   // Some Logic Here
+> };
+>
+> // You'll get type safe valid HTTP Method suggestions here
+> someFunction("GET");
 > ```
 
 &nbsp;
