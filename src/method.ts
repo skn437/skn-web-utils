@@ -1,3 +1,12 @@
+/**
+ * HTTP Method Object
+ *
+ * It contains:
+ *
+ * (a) The names of the valid HTTP methods as key
+ *
+ * (b) Valid HTTP method values of corresponding methods as values
+ */
 export const httpMethod = {
   /**
    * `GET` is used to request data from a specified resource

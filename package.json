@@ -1,7 +1,7 @@
 {
   "name": "@best-skn/web-utils",
   "description": "A simple library containing some web development utility objects",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -44,7 +44,7 @@
     "build": "tsc"
   },
   "devDependencies": {
-    "@types/node": "^25.5.2",
+    "@types/node": "^25.6.0",
     "typescript": "^5.9.3"
   }
 }

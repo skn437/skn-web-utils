@@ -1,3 +1,12 @@
+/**
+ * HTTP Response Status Code Object
+ *
+ * It contains:
+ *
+ * (a) The valid HTTP response status code names as keys
+ *
+ * (b) The values of corresponding codes as values
+ */
 export const httpResponse = {
   /**
    * Continue

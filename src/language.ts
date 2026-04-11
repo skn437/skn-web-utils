@@ -1,3 +1,12 @@
+/**
+ * HTML Language Attribute Object
+ *
+ * It contains:
+ *
+ * (a) The names of languages as keys
+ *
+ * (b) "html" tag's `lang` attribute values of corresponding languages as values
+ */
 export const htmlLanguage = {
   ABKHAZIAN: "ab",
   AFAR: "aa",
