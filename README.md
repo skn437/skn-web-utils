@@ -140,6 +140,8 @@
 
 - 👩‍🎨`Uma`: My former student. She is the reason I found strength again to fight the difficulties in life. Thank you for motivating me when I almost lost myself in despair. You yourself struggled a lot, saw highs and lows in your life, but despite all that, you didn't lose hope and inner strength. Thank you for sharing your life story to me and giving me inspiration. I'll be forever grateful to you. You are my pride and joy.
 - 💻`Piyal` & 👨‍⚖️`Shams`: My two high school buddies, who always remain there for me in my hard times. I'm fortunate and blessed enough to get friends like you two.
+- 💯`My Parents`: The greatest treasures of my life ever.
+- 👩`Trina`: The lady who resides deep inside my heart. I hope to find you again in next life. Next life, let's not get separated again. Next life, let's be together no matter what happens, ok?
 
 &nbsp;
 
