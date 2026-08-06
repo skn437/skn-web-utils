@@ -139,7 +139,7 @@
 ## **_Dedicated To:_**
 
 - 👩‍🎨`Uma`: My former student. She is the reason I found strength again to fight the difficulties in life. Thank you for motivating me when I almost lost myself in despair. You yourself struggled a lot, saw highs and lows in your life, but despite all that, you didn't lose hope and inner strength. Thank you for sharing your life story to me and giving me inspiration. I'll be forever grateful to you. You are my pride and joy.
-- 💻`Piyal` & 👨‍⚖️`Shams`: My two high school buddies, who always remain there for me in my hard times. Thanks to you two for always be the rays of hope for me since high school days. I'm fortunate and blessed enough to get friends like you two.
+- 💻`Piyal` & 👨‍⚖️`Shams`: My two high school buddies, who always remain there for me in my hard times. I'm fortunate and blessed enough to get friends like you two.
 
 &nbsp;
 
