@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.w3schools.com/tags/ref_httpmessages.asp" target="_blank">
-  <img width="150px" src="https://firebasestorage.googleapis.com/v0/b/skn-ultimate-project-la437.appspot.com/o/GitHub%20Library%2F18-TypeScript-SWU.svg?alt=media&token=b5551197-ead4-4644-bfa2-dcc9ab93b2d5" alt="Web Utils" />
+  <img width="150px" src="./public/web-magic.svg" alt="Web Utils" />
   </a>
 </p>
 
@@ -138,8 +138,8 @@
 
 ## **_Dedicated To:_**
 
-- 👩‍🎨`Logno` & 🧛‍♀️`Atoshi`: The two most special ladies of my life. My best wishes will always be with you two. May you two always be happy.
-- 💯`My Parents`: The greatest treasures of my life ever.
+- 👩‍🎨`Uma`: My former student. She is the reason I found strength again to fight the difficulties in life. Thank you for motivating me when I almost lost myself in despair. You yourself struggled a lot, saw highs and lows in your life, but despite all that, you didn't lose hope and inner strength. Thank you for sharing your life story to me and giving me inspiration. I'll be forever grateful to you. You are my pride and joy.
+- 💻`Piyal` & 👨‍⚖️`Shams`: My two high school buddies, who always remain there for me in my hard times. Thanks to you two for always be the rays of hope for me since high school days. I'm fortunate and blessed enough to get friends like you two.
 
 &nbsp;
 

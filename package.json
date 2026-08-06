@@ -1,7 +1,7 @@
 {
   "name": "@best-skn/web-utils",
   "description": "A simple library containing some web development utility objects",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
